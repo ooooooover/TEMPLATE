@@ -1,5 +1,11 @@
 # Unified Transferability Metrics for Time Series Foundation Models [NeurIPS 2025]
 
+# The complete TEMPLATE codes and scripts have been migrated to [iLearn-Lab](https://github.com/iLearn-Lab/NeurIPS25-TEMPLATE)
+
+# The complete TEMPLATE codes and scripts have been migrated to [iLearn-Lab](https://github.com/iLearn-Lab/NeurIPS25-TEMPLATE)
+
+# The complete TEMPLATE codes and scripts have been migrated to [iLearn-Lab](https://github.com/iLearn-Lab/NeurIPS25-TEMPLATE)
+
 ## Authors
 
 **Weiyang Zhang**​<sup>1</sup>, ​**Xinyang Chen**​<sup>1,📧</sup>, ​**Xiucheng Li**​<sup>1</sup>, ​**Kehai Chen**​<sup>1</sup>, ​**Weili Guan**​<sup>2</sup>, ​**Liqiang Nie**​<sup>1</sup>
